@@ -1,0 +1,14 @@
+Variable,Chi-Square,p-value,Cramers_V,Effect_Interpretation,Significant_At_5%
+OverTime,87.5643,0.0,0.2427,Moderate,True
+JobRole,86.1903,0.0,0.2307,Moderate,True
+SalaryBand,69.2157,0.0,0.2107,Moderate,True
+TenureGroup,66.7576,0.0,0.2067,Moderate,True
+AgeGroup,64.8825,0.0,0.2036,Moderate,True
+MaritalStatus,46.1637,0.0,0.1734,Weak,True
+BusinessTravel,24.1824,6e-06,0.1229,Weak,True
+JobSatisfactionCategory,17.5051,0.000556,0.0994,Very Weak,True
+WorkLifeBalanceCategory,16.3251,0.000973,0.0952,Very Weak,True
+Department,10.796,0.004526,0.0774,Very Weak,True
+PromotionGapGroup,5.9844,0.11237,0.0451,Very Weak,False
+Gender,1.117,0.290572,0.0089,Very Weak,False
+PerformanceCategory,0.0002,0.990075,0.0,Very Weak,False
